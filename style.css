@@ -31,7 +31,7 @@ body{
   text-align: center;
   text-transform: uppercase;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 18px;
   letter-spacing: 5px;
   color: #ffffff;
   background-color: #518f59;
@@ -44,17 +44,17 @@ body{
   width: 50%;
 }
 .section-title {
-  font-size: 27px;
+  font-size: 18px;
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: 5px;
   color: #518f59;
 }
 p{
-  font-size: 20px;
+  font-size: 18px;
 }
 .section-item{
-  font-size: 20px;
+  font-size: 18px;
 }
 .footer-container{
   height: 50px;
@@ -77,6 +77,11 @@ li>a{
 a{
   text-decoration: none;
   color: white;
+}
+hr{
+  width:150px; 
+  size:3px; 
+  color:white;
 }
 @media (max-width: 768px) {
   .section {
